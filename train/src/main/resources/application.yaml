@@ -1,0 +1,13 @@
+spring:
+  jpa: 
+    properties:
+     javax:
+      persistance:
+        validation:
+          mode: none
+  batch:
+   job:
+    enabled: false
+  security:
+   basic:
+    enabled: false
