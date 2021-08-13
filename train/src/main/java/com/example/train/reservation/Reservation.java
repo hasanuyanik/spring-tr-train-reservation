@@ -1,6 +1,6 @@
-package com.example.train;
+package com.example.train.reservation;
 
-import java.util.List;
+import com.example.train.Train;
 
 import lombok.Data;
 
